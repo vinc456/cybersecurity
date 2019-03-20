@@ -28,6 +28,8 @@
 
 [whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer) - Small tool to display chats from the Android msgstore.db database
 
+[Forensics Analysis](https://forensicate.cloud/ws1/) Analysis of Amazon Linux on EC2 for Incident Responders
+
 ### JavaScript in GIF
 
 [Walkthrough](https://quadhead.de/storing-javascript-code-in-gif-images/)
