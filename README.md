@@ -6,3 +6,4 @@ A lot of this was taken from a Reddit post on some security-related subreddit, b
 ☹️ . If you recognize it let me know!
 
 https://ctftime.org/event/list/upcoming
+https://www.skynorthern.com/vancouver-securityevents/
