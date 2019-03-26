@@ -10,4 +10,8 @@ https://ctftime.org/event/list/upcoming
 
 Vancouver Specific events
 [Launch Ticker style](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-news-digest)
+
 [Upcoming Vancouver Security Events](https://www.skynorthern.com/vancouver-securityevents/)
+
+
+[How to get started with writing an exploit](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-an-exploit)
