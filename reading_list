@@ -1,0 +1,48 @@
+I've amassed quite a collection of information security PDFs, and I would like to share with anyone who would like to read them. I believe that access to information should be free. Listed below are the books I have in my digital library, sorted by topic. In the coming weeks I'll be working on a guide for all the tools I've used and the resources that helped me learn cyber security. Send me a DM with your email and what books you'd like to read.
+https://www.facebook.com/caitlinannettelong/posts/2249031748467367
+General Security Concepts:
+PoC||GTFO (Proof of Concept or GTFO) - Travis Goodspeed
+The Art of Intrusion - Kevin Mitnick, William L. Simon
+Secrets and Lies: Digital Security in a Networked World - Bruce Schneier
+Security Engineering, 2nd edition - Ross Anderson
+Hacking: The Art of Exploitation, 2nd edition - Jon Erickson
+Threat Modeling: Designing for Security - Adam Shostack
+A Bug Hunter’s Diary: A Guided Tour through the Wilds of Software Security - Tobias Klein
+The Shellcoder’s Handbook: Discovering and Exploiting Security Holes - Chris Anley, John Heasman, Felix “FX” Linder, Gerardo Richarte
+Malware Analyst’s Cookbook: Tools and Techniques for Fighting Malicious Code - Michael Hale Ligh, Steven Adair, Blake Hartstein, Matthew Richard
+Malware Data Science: Attack Detection and Attribution - Joshua Saxe and Hillary Sanders
+SSH, The Secure Shell: A Definitive Guide - Daniel J. Barrett, Richard Silverman
+
+Cryptography:
+Cryptography Engineering: Designs, Principles, and Practical Applications - Niels Ferguson, Bruce Schneier, Tadayoshi Kohno
+Serious Cryptography: A Practical Introduction to Modern Encryption - Jean-Philippe Aumasson
+Cryptography Made Simple - Nigel P. Smart
+
+Reverse Engineering:
+Reversing: Secrets of Reverse Engineering - Eldad Eilam
+Hacking the Xbox: An Introduction to Reverse Engineering - Andrew “bunnie” Huang
+Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools and Obfuscation - Bruce Dang, Alexandre Gazet, Elias Bachaalany
+The IDA Pro Book, 2nd edition - Chris Eagle
+
+Social Engineering:
+Social Engineering: The Art of Human Hacking - Christopher Hadnagy
+The Art of Deception - Kevin Mitnick
+
+Network Security:
+The Practice of Network Security Monitoring: Understanding Incident Detection and Response - Richard Bejtlich
+Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems, 3rd edition - Chris Sanders
+Attacking Network Protocols: A Hacker’s Guide to Capture, Analysis, and Exploitation - James Forshaw
+Wireshark for Security Professionals - Jessey Bullock, Jeff T. Parker
+
+Linux and Python:
+Python Playground: Geeky Projects for the Curious Programmer - Mahesh Venkitachalam
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners - Al Sweigart
+Intro to BASH Programming - Mikey G
+Think Like a Programmer: An Introduction to Creative Problem Solving - V. Anton Spraul
+The Linux Command Line - William E. Shotts, Jr
+Hacking Secret Ciphers with Python - Al Sweigart
+Linux Basics for Hackers - Occupytheweb
+Kali Linux Cookbook - Willie L. Pritchett, David De Smet
+Advanced BASH Scripting Guide - Mendel Cooper
+Designing BSD Rootkits: An Introduction to Kernel Hacking - Joseph Kong
+Practical Binary Analysis: Build Your Own Linux Tools For Binary Instrumentation, Analysis, and Disassembly - Dennis Andriesse
