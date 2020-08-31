@@ -167,3 +167,5 @@ https://www.reddit.com/r/Hacking_Tutorials/comments/aczz0l/if_you_like_watching_
 [Learn NetSec](https://www.reddit.com/r/AskNetsec/comments/ar3fo5/learn_netsec/)
 
 [Beginner's Curriculum](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
+
+[An Introduction to the Cyber Threat Environment](https://cyber.gc.ca/en/guidance/introduction-cyber-threat-environment)
